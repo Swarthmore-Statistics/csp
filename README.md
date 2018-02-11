@@ -1,7 +1,7 @@
 # Statistical Learning in R
 # CSP 2018
 
-Materials for the Statistical Learning in R short course at CSP 2018 will be posted here.  
+Materials for the *Statistical Learning in R* short course at CSP 2018 will be posted here.  
 
 Participants who want to follow along in their own R session should download the following R packages before the tutorial:
 
